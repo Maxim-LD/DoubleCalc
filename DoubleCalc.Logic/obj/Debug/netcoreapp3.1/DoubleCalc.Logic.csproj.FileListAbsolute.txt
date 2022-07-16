@@ -1,0 +1,13 @@
+C:\Users\DELL\source\repos\DoubleCalc\DoubleCalc.Logic\bin\Debug\netcoreapp3.1\DoubleCalc.Logic.deps.json
+C:\Users\DELL\source\repos\DoubleCalc\DoubleCalc.Logic\bin\Debug\netcoreapp3.1\DoubleCalc.Logic.dll
+C:\Users\DELL\source\repos\DoubleCalc\DoubleCalc.Logic\bin\Debug\netcoreapp3.1\DoubleCalc.Logic.pdb
+C:\Users\DELL\source\repos\DoubleCalc\DoubleCalc.Logic\bin\Debug\netcoreapp3.1\DoubleCalc.Model.dll
+C:\Users\DELL\source\repos\DoubleCalc\DoubleCalc.Logic\bin\Debug\netcoreapp3.1\DoubleCalc.Model.pdb
+C:\Users\DELL\source\repos\DoubleCalc\DoubleCalc.Logic\obj\Debug\netcoreapp3.1\DoubleCalc.Logic.csproj.AssemblyReference.cache
+C:\Users\DELL\source\repos\DoubleCalc\DoubleCalc.Logic\obj\Debug\netcoreapp3.1\DoubleCalc.Logic.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\source\repos\DoubleCalc\DoubleCalc.Logic\obj\Debug\netcoreapp3.1\DoubleCalc.Logic.AssemblyInfoInputs.cache
+C:\Users\DELL\source\repos\DoubleCalc\DoubleCalc.Logic\obj\Debug\netcoreapp3.1\DoubleCalc.Logic.AssemblyInfo.cs
+C:\Users\DELL\source\repos\DoubleCalc\DoubleCalc.Logic\obj\Debug\netcoreapp3.1\DoubleCalc.Logic.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\repos\DoubleCalc\DoubleCalc.Logic\obj\Debug\netcoreapp3.1\DoubleCalc.Logic.csproj.CopyComplete
+C:\Users\DELL\source\repos\DoubleCalc\DoubleCalc.Logic\obj\Debug\netcoreapp3.1\DoubleCalc.Logic.dll
+C:\Users\DELL\source\repos\DoubleCalc\DoubleCalc.Logic\obj\Debug\netcoreapp3.1\DoubleCalc.Logic.pdb
